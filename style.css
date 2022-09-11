@@ -1,0 +1,19 @@
+span {
+   color: blue;
+}
+
+section.title {
+   color: rgb(71, 12, 71);
+}
+
+#features {
+   color: rebeccapurple;
+}
+
+#gav {
+   color: rgb(20, 149, 82);
+}
+
+section.history#history {
+   color: rgb(75, 115, 40)
+}
